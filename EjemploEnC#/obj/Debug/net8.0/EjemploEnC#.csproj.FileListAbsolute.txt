@@ -1,0 +1,4 @@
+C:\Users\jonat\Documents\Proyectos Visualcode\distribuidos\Ejemplos de interbloqueos\EjemploEnC#\obj\Debug\net8.0\EjemploEnC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\Proyectos Visualcode\distribuidos\Ejemplos de interbloqueos\EjemploEnC#\obj\Debug\net8.0\EjemploEnC#.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\Proyectos Visualcode\distribuidos\Ejemplos de interbloqueos\EjemploEnC#\obj\Debug\net8.0\EjemploEnC#.AssemblyInfo.cs
+C:\Users\jonat\Documents\Proyectos Visualcode\distribuidos\Ejemplos de interbloqueos\EjemploEnC#\obj\Debug\net8.0\EjemploEnC#.csproj.CoreCompileInputs.cache

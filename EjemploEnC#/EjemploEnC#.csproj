@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>EjemploInterbloqueo</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems> <!-- Desactivar la inclusión automática -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Selecciona cuál archivo ejecutar comentando uno de estos -->
+    <!-- <Compile Include="Program.cs" />   Este es el programa sin la detección -->
+    <Compile Include="ProgramDetecion.cs" />   <!-- Este es el programa con detección -->
+  </ItemGroup>
+
+</Project>
